@@ -1,0 +1,43 @@
+body {
+
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    
+    text-align: center;
+    color:tomato;
+}
+
+label, input, button {
+   
+    display: block; 
+}
+
+label{
+
+    margin: 10px;
+}
+
+button {
+
+    margin: 10px;
+    padding: 10px 20px;
+    background-color:rgb(162, 34, 11);
+    color: white;
+    font-size: 16px;  
+}
+
+input{
+
+    margin: 10px; 
+}
+
+button:hover {
+
+    background-color:tomato;
+}
+.resultado {
+
+    text-align: center; 
+}
